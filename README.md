@@ -1,4 +1,4 @@
-# Console Lab Level 1
+# Console (Terminal, Shell) Lab Level 1
 
 ## Objectives
 
